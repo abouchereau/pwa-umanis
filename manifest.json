@@ -1,0 +1,23 @@
+{
+  "short_name": "Hello Umanis",
+  "name": "Hello Umanis",
+  "version": "1.0.0",
+  "icons": [
+    {
+        "src": "logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+        "src": "logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/pwa.html",
+  "background_color": "#112540",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "scope": "/",
+  "theme_color": "#112540"
+}
